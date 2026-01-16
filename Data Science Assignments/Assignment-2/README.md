@@ -1,6 +1,7 @@
 # 🐍 Assignment 2 — Data Structures, Functions, Numpy & Pandas
 
 **Author:** Aswin E V
+
 **Platform:** Google Colab
 
 This notebook covers advanced Python concepts and an introduction to data manipulation:
