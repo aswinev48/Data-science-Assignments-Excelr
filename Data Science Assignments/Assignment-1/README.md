@@ -1,7 +1,7 @@
 # 🐍 Assignment 1 — Basics of Python
 
-***Author:** Aswin E V
-***Platform:** Google Colab
+**Author:** Aswin E V
+**Platform:** Google Colab
 
 This assignment is the first step in my Data Science journey. 
 It focuses on understanding the **fundamental concepts of Python**, which will later be used in data analysis, machine learning, and automation tasks.
