@@ -14,7 +14,7 @@ The primary objective of this notebook is to implement a complete predictive mod
 
 * **Feature Selection:** Analyzing multiple independent variables such as **Age**, **Mileage (KM)**, **Horsepower (HP)**, **Engine Volume (cc)**, and **Weight** to predict the **Price**.
 * **Correlation Analysis:** Using heatmaps to detect multicollinearity between car features.
-* ]**Model Building:** Implementing MLR using both `statsmodels` for detailed statistical summaries and `scikit-learn` for predictive accuracy.
+* **Model Building:** Implementing MLR using both `statsmodels` for detailed statistical summaries and `scikit-learn` for predictive accuracy.
 * **Model Diagnostics:** Checking for assumptions of linearity, homoscedasticity, and normality of residuals.
 * **Performance Evaluation:** Calculating metrics like **R-squared**, **Adjusted R-squared**, and **Root Mean Squared Error (RMSE)** to validate the model.
 
