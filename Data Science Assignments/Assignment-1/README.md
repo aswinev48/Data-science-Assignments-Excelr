@@ -1,6 +1,7 @@
 # 🐍 Assignment 1 — Basics of Python
 
 **Author:** Aswin E V
+
 **Platform:** Google Colab
 
 This assignment is the first step in my Data Science journey. 
